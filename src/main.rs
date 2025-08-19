@@ -7,7 +7,7 @@ use std::path::PathBuf;
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    let url = "https://m.youtube.com/watch?v=DEa5hfcZyWo&pp=ugUHEgVlbi1VUw%3D%3D";
+    let url = "http://example.com/video";      // change this
     let client = Client::new();
 
     // 1. Fetch HTML
