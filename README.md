@@ -1,5 +1,5 @@
 ## VideoDownload
-so this version is simple you configure the target link in (main)[src/main.rs]
+so this version is simple you configure the target link in (main)[./src/main.rs]
 it works good with YouTube
 [REQUIREMENTS]
 - ffmpeg
