@@ -1,6 +1,11 @@
 ## VideoDownload
-so this version is simple you configure the target link in (main)[https://github.com/CEO-netizen/videodownload/blob/master/src/main.rs]
-it works good with YouTube
-[REQUIREMENTS]
+so this version is simple you configure the target link using the --url flag
+
+## [REQUIREMENTS]
 - ffmpeg
 - yt-dlp
+
+## usage
+```bash
+videodownload --url https://www.example.com/video
+```
